@@ -89,7 +89,7 @@ A high-performance gender detection system combining **YOLO face detection**, **
 
 3. **Download Pre-trained Models**
    
-   Download the required models from [GitHub Releases](https://github.com/yourusername/gender-detection/releases/tag/Pre_Trained_Models):
+   Download the required models from [GitHub Releases](https://github.com/menuka400/Real-Time-Gender-Classification-Using-Deep-Metric-Learning-and-Vector-Database-Retrieval/releases/tag/Pre_Train_Models):
    
    - `yolov11l-face.pt` → Place in `Pre-Train Models/`
    - `buffalo_l.zip` → Extract to `Pre-Train Models/models/buffalo_l/`
