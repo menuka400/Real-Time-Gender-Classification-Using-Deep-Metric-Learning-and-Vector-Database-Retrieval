@@ -277,8 +277,8 @@ If you use this project in your research, please cite our conference paper:
 ```bibtex
 @inproceedings{realtime_gender_classification_2025,
   title={Real-Time Gender Classification Using Deep Metric Learning and Vector Database Retrieval: A Hybrid Ensemble Approach},
-  author={[Your Name]},
-  booktitle={[Conference Name]},
+  author={[Menuka Hashen Jayasuriya]},
+  booktitle={[Proceedings of the Independent Study on AI and Computer Vision]},
   year={2025},
   url={https://www.researchgate.net/publication/397676791}
 }
