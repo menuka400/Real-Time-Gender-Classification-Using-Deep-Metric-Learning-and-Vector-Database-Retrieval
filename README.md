@@ -7,6 +7,8 @@ A high-performance gender detection system combining **YOLO face detection**, **
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.0%2B-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
+📄 **[Read the Conference Paper](https://www.researchgate.net/publication/397676791_Real-Time_Gender_Classification_Using_Deep_Metric_Learning_and_Vector_Database_Retrieval_A_Hybrid_Ensemble_Approach)** | *Real-Time Gender Classification Using Deep Metric Learning and Vector Database Retrieval: A Hybrid Ensemble Approach*
+
 ---
 
 ## ✨ Features
@@ -89,7 +91,7 @@ A high-performance gender detection system combining **YOLO face detection**, **
 
 3. **Download Pre-trained Models**
    
-   Download the required models from [GitHub Releases](https://github.com/menuka400/Real-Time-Gender-Classification-Using-Deep-Metric-Learning-and-Vector-Database-Retrieval/releases/tag/Pre_Train_Models):
+   Download the required models from [GitHub Releases](https://github.com/yourusername/gender-detection/releases/tag/Pre_Trained_Models):
    
    - `yolov11l-face.pt` → Place in `Pre-Train Models/`
    - `buffalo_l.zip` → Extract to `Pre-Train Models/models/buffalo_l/`
@@ -265,6 +267,24 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **ArcFace**: InsightFace for buffalo_l models
 - **FAISS**: Facebook AI Research for efficient similarity search
 - **PyTorch**: PyTorch team for the deep learning framework
+
+---
+
+## 📄 Citation
+
+If you use this project in your research, please cite our conference paper:
+
+```bibtex
+@inproceedings{realtime_gender_classification_2025,
+  title={Real-Time Gender Classification Using Deep Metric Learning and Vector Database Retrieval: A Hybrid Ensemble Approach},
+  author={[Your Name]},
+  booktitle={[Conference Name]},
+  year={2025},
+  url={https://www.researchgate.net/publication/397676791}
+}
+```
+
+**Paper**: [Real-Time Gender Classification Using Deep Metric Learning and Vector Database Retrieval](https://www.researchgate.net/publication/397676791_Real-Time_Gender_Classification_Using_Deep_Metric_Learning_and_Vector_Database_Retrieval_A_Hybrid_Ensemble_Approach)
 
 ---
 
