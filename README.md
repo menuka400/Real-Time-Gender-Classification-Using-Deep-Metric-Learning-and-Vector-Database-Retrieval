@@ -88,8 +88,21 @@ A high-performance gender detection system combining **YOLO face detection**, **
    ```
 
 3. **Download Pre-trained Models**
-   - Place `yolov11l-face.pt` in `Pre-Train Models/`
-   - Place ArcFace models (buffalo_l) in `Pre-Train Models/models/buffalo_l/`
+   
+   Download the required models from [GitHub Releases](https://github.com/yourusername/gender-detection/releases/tag/Pre_Trained_Models):
+   
+   - `yolov11l-face.pt` → Place in `Pre-Train Models/`
+   - `buffalo_l.zip` → Extract to `Pre-Train Models/models/buffalo_l/`
+   - `face_embeddings.index` → Place in `embeddings/` folder
+   
+   ```bash
+   # After downloading, organize the files:
+   mkdir -p "Pre-Train Models/models/buffalo_l"
+   mkdir -p embeddings
+   
+   # Extract buffalo_l.zip to the correct location
+   # Move face_embeddings.index to embeddings folder
+   ```
 
 ---
 
