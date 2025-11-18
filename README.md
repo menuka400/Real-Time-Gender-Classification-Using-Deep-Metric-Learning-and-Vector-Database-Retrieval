@@ -7,7 +7,7 @@ A high-performance gender detection system combining **YOLO face detection**, **
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.0%2B-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-📄 **[Read the Conference Paper](https://www.researchgate.net/publication/397676791_Real-Time_Gender_Classification_Using_Deep_Metric_Learning_and_Vector_Database_Retrieval_A_Hybrid_Ensemble_Approach)** | *Real-Time Gender Classification Using Deep Metric Learning and Vector Database Retrieval: A Hybrid Ensemble Approach*
+📄 **[Read the Conference Paper](https://www.researchgate.net/publication/397702586_Real-Time_Gender_Classification_Using_Deep_Metric_Learning_and_Vector_Database_Retrieval_A_Hybrid_Ensemble_Approach?_sg=NcRFw10sNzA5ewh1l3yTm0ZdrPuFgS_4rEIaLYf7D8lUkhcD8_WsJ54obEVaVoTS7SJKSl1lXiap3K26bCd08klPUZ2Pquytf5cloNgH.9Z5CVyoaYdcm59x_DyB0bSfHeCuAY-TNfbYyKBTnZwXqoMAgNj1P2RZdOv5jscO2bKskBOS2RYxzIMEr-MkyRQ&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiX2RpcmVjdCJ9fQ)** | *Real-Time Gender Classification Using Deep Metric Learning and Vector Database Retrieval: A Hybrid Ensemble Approach*
 
 ---
 
@@ -284,7 +284,7 @@ If you use this project in your research, please cite our conference paper:
 }
 ```
 
-**Paper**: [Real-Time Gender Classification Using Deep Metric Learning and Vector Database Retrieval](https://www.researchgate.net/publication/397676791_Real-Time_Gender_Classification_Using_Deep_Metric_Learning_and_Vector_Database_Retrieval_A_Hybrid_Ensemble_Approach)
+**Paper**: [Real-Time Gender Classification Using Deep Metric Learning and Vector Database Retrieval](https://www.researchgate.net/publication/397702586_Real-Time_Gender_Classification_Using_Deep_Metric_Learning_and_Vector_Database_Retrieval_A_Hybrid_Ensemble_Approach?_sg=NcRFw10sNzA5ewh1l3yTm0ZdrPuFgS_4rEIaLYf7D8lUkhcD8_WsJ54obEVaVoTS7SJKSl1lXiap3K26bCd08klPUZ2Pquytf5cloNgH.9Z5CVyoaYdcm59x_DyB0bSfHeCuAY-TNfbYyKBTnZwXqoMAgNj1P2RZdOv5jscO2bKskBOS2RYxzIMEr-MkyRQ&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiX2RpcmVjdCJ9fQ)
 
 ---
 
